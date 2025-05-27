@@ -1,0 +1,30 @@
+.main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header {
+  height: 4rem;
+  box-shadow: var(--shadow-1);
+  display: flex;
+  align-items: center;
+  padding: 0 2rem;
+}
+
+.section {
+  flex: 1;
+  overflow: auto;
+  padding: 2rem;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.nav {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
