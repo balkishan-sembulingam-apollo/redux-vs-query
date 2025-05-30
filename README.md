@@ -1,4 +1,4 @@
-# My React App
+# Redux Vs Query
 
 A modern React application built with Redux Toolkit and React Redux for state management.
 
@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone <your-repo-url>
-cd my-app
+cd redux-vs-query
 ```
 
 2. Install dependencies:
@@ -54,7 +54,7 @@ Builds the app for production to the `build` folder.
 ## Project Structure
 
 ```
-my-app/
+redux-vs-query/
   ├── src/
   │   ├── app/
   │   │   └── store.js        # Redux store configuration
